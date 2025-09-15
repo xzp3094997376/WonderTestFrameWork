@@ -1,0 +1,37 @@
+{
+
+    "name": "com.xzp.wondertestframework",
+    "version": "1.2.3",
+    "displayName": "wondertestframework",
+    "description": "描述：这是个示例",
+    "unity": "2020.3",
+    "unityRelease": "0b14",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {   
+    "com.unity.test-framework": "1.1.33"
+   },
+   "keywords": [
+     "wonder",
+     "xr",
+     "reality"     
+    ],
+    "author": {
+      "name": "谢展鹏",
+      "email": "3094997376@qq.com",
+      "url": "https://www.xzp.com"
+    },
+    "samples": [
+        {
+            "displayName": "Simple1",
+            "description": "示例一",
+            "path": "Samples~/Simple1"
+        },
+        {
+            "displayName": "Simple2",
+            "description": "示例二",
+            "path": "Samples~/Simple2"
+        }
+    ]   
+}
