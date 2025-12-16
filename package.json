@@ -2,7 +2,7 @@
 
     "name": "com.xzp.wondertestframework",
     "version": "1.2.3",
-    "displayName": "wondertestframework",
+    "displayName": "xzp Unity Utility",
     "description": "描述：这是个示例",
     "unity": "2020.3",
     "unityRelease": "0b14",

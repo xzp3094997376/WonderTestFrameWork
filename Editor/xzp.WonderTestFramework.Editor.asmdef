@@ -2,6 +2,7 @@
     "name": "xzp.WonderTestFramework.Editor",
     "rootNamespace": "",
     "references": [
+        "GUID:0d746a09b7252fb4ea0bc54e985f59f1"
     ],
     "includePlatforms": [
         "Editor"
@@ -12,22 +13,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [
-        {
-            "name": "com.unity.xr.management",
-            "expression": "3.2.0",
-            "define": "XR_MGMT_3_2_0_OR_NEWER"
-        },
-        {
-            "name": "com.unity.xr.management",
-            "expression": "[0.0.0,4.1.0]",
-            "define": "XR_MGMT_4_1_0_OR_OLDER"
-        },
-        {
-            "name": "com.unity.xr.management",
-            "expression": "4.4.0",
-            "define": "XR_MGMT_4_4_0_OR_NEWER"
-        }
-    ],
+    "versionDefines": [],
     "noEngineReferences": false
 }
